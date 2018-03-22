@@ -6,8 +6,6 @@
     "node": "8.9.4"
   }
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha",
-    "postinstall": "bower install && grunt build"
+    "start": "node index.js"
   }
 }
