@@ -1,3 +1,3 @@
 console.log('In Script');
 
-res.redirect('public/index.html');
+res.redirect('Sample.html');
