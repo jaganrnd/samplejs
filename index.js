@@ -1,4 +1,4 @@
-alert('In Script');
+console.log('In Script');
 			var http = new XMLHttpRequest();
 			var url = "https://test.salesforce.com";
 			var params = "username=api.userprovision@aero.bombardier.com.uat&password=Aero123!yrbIL5DcZeqHoLUtY8Kk2Vg9";
